@@ -1,0 +1,3 @@
+# Welcome to Courier
+
+Courier is an out of box notification framework for engineers to optimize user experience, reduce engineering dependency, and take product communication to the next level.
