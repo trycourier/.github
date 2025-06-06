@@ -5,5 +5,3 @@ Courier is an out of box notification framework for engineers to optimize user e
 ### Get Started
 
 Documentation: https://docs.courier.com/
-
-Community & Questions: https://discord.com/invite/courier
